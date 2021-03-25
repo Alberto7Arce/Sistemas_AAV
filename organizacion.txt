@@ -1,0 +1,10 @@
+La organización en un centro de cómputo es funamental para poder dar un servicio óptimo.
+Implica mantener controlado y en orden todos los factrores que lo componen así como 
+mantener el sistema disponible para los usuarios.
+
+Un ejemplo de organización dentro de un centro de computo podría ser llevar un registro de 
+la fallas presentadas y su solución, para preevenir en algún futuro estos fallos.
+En caso de que no se tenga un registro del problema, se archiva su nueva solución para 
+siguentes casos.
+
+ 
